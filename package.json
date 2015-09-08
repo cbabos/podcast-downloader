@@ -2,7 +2,10 @@
   "name": "podcast-downloader",
   "version": "0.0.0",
   "description": "Console-mode podcast downloader. ",
-  "main": "app/index.js",
+  "preferGlobal": true,
+  "bin": {
+    "pdl": "bin/pdl.js"
+  },
   "scripts": {
     "test": "mocha"
   },
@@ -15,5 +18,8 @@
   "private": true,
   "devDependencies": {
     "mocha": "^2.3.1"
+  },
+  "dependencies": {
+    "podchoosee-parser": "^0.1.10"
   }
 }

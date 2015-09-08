@@ -1,0 +1,642 @@
+{
+  "http://feeds.podtrac.com/kJVKNvGiQn6Q": {
+    "title": "Párásító",
+    "episodes": [
+      {
+        "title": "000 - pilot",
+        "episode": 1,
+        "date": "2014-02-04T23:30:38.000Z",
+        "downloaded": true,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/000_pilot_v3.mp3"
+      },
+      {
+        "title": "001 - Justice",
+        "episode": 2,
+        "date": "2014-02-13T21:53:12.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/001_justice.mp3"
+      },
+      {
+        "title": "002 - a közösség ereje",
+        "episode": 3,
+        "date": "2014-02-21T20:40:02.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/002_a_kozosseg_ereje.mp3"
+      },
+      {
+        "title": "003 - Egy döntés margójára",
+        "episode": 4,
+        "date": "2014-03-01T19:48:21.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/003_egy_dontes_margojara.mp3"
+      },
+      {
+        "title": "004 - Üvegszálasi, avagy amíg be nem tiltják",
+        "episode": 5,
+        "date": "2014-03-07T22:29:21.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/004_uvegszalasi_avagy_amig_be_nem_tiltjak.mp3"
+      },
+      {
+        "title": "005 - Leves minden mennyiségben",
+        "episode": 6,
+        "date": "2014-03-13T22:45:20.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.m4a/ecigitesztek.hu/podcast/005_leves_minden_mennyisegben.m4a"
+      },
+      {
+        "title": "006 - critical mass",
+        "episode": 7,
+        "date": "2014-03-21T00:12:07.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/006_critical_mass.mp3"
+      },
+      {
+        "title": "007 - Füstölgő pamutzokni",
+        "episode": 8,
+        "date": "2014-03-27T22:46:45.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/007_fustolgo_pamutzokni.mp3"
+      },
+      {
+        "title": "008 - nyolcadik utas a kazán",
+        "episode": 9,
+        "date": "2014-04-03T22:31:33.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/008_nyolcadik_utas_a_kazan.mp3"
+      },
+      {
+        "title": "009 - Taifun egy pohár vízben",
+        "episode": 10,
+        "date": "2014-04-10T22:08:13.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/009_taifun_egy_pohar_vizben.mp3"
+      },
+      {
+        "title": "010 - terepszínű gőzfelhő",
+        "episode": 11,
+        "date": "2014-04-17T22:01:07.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/010_terepszinu_gozfelho.mp3"
+      },
+      {
+        "title": "011 - A kínaiak már a spájzban vannak",
+        "episode": 12,
+        "date": "2014-04-24T22:03:48.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/011_a_kinaiak_mar_a_spajzban_vannak.mp3"
+      },
+      {
+        "title": "012 - felvonulók kérték",
+        "episode": 13,
+        "date": "2014-05-01T20:49:01.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/012_felvonulok_kertek.mp3"
+      },
+      {
+        "title": "013 - megtekertük a megtekerhetetlent",
+        "episode": 14,
+        "date": "2014-05-08T20:33:49.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/013_megtekertuk_a_megtekerhetetlent.mp3"
+      },
+      {
+        "title": "014 - hátradőlünk, pöfékelünk",
+        "episode": 15,
+        "date": "2014-05-15T21:06:15.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/014_hatradolunk_pofekelunk.mp3"
+      },
+      {
+        "title": "015 - turbómagyarkodjunk",
+        "episode": 16,
+        "date": "2014-05-22T20:41:05.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/015_turbomagyarkodjunk.mp3"
+      },
+      {
+        "title": "016 - Fillérbaszó minimálmodder",
+        "episode": 17,
+        "date": "2014-05-29T20:51:02.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/016_fillerbaszo_minimalmodder.mp3"
+      },
+      {
+        "title": "017 - magyar égre magyar UFO-t!",
+        "episode": 18,
+        "date": "2014-06-05T21:45:26.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/017_magyar_egre_magyar_ufot.mp3"
+      },
+      {
+        "title": "018 - nagykorúak lettünk",
+        "episode": 19,
+        "date": "2014-06-12T20:08:07.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/018_nagykoruak_lettunk.mp3"
+      },
+      {
+        "title": "019 - A Béla margójára",
+        "episode": 20,
+        "date": "2014-06-19T21:47:24.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/019_a_bela_margojara.mp3"
+      },
+      {
+        "title": "020 - A betyár mindenit",
+        "episode": 21,
+        "date": "2014-06-26T20:33:05.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/020_a_betyar_mindenit.mp3"
+      },
+      {
+        "title": "021 - For jor informésön",
+        "episode": 22,
+        "date": "2014-07-03T20:06:52.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/021_for_jor_informeson.mp3"
+      },
+      {
+        "title": "022 - A 22-es csapdája",
+        "episode": 23,
+        "date": "2014-07-10T20:00:06.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/022_a_22-es_csapdaja.mp3"
+      },
+      {
+        "title": "023 - A trollok köztünk élnek",
+        "episode": 24,
+        "date": "2014-07-17T21:48:04.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/023_a_trollok_koztunk_elnek.mp3"
+      },
+      {
+        "title": "024 - Egy rekesz podcast",
+        "episode": 25,
+        "date": "2014-07-24T21:56:28.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/024_egy_rekesz_podcast.mp3"
+      },
+      {
+        "title": "025 - Érik az uborka",
+        "episode": 26,
+        "date": "2014-07-31T19:00:02.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/025_erik_az_uborka.mp3"
+      },
+      {
+        "title": "026 - A hülyék köztünk járnak",
+        "episode": 27,
+        "date": "2014-08-07T22:46:27.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/026_a_hulyek_koztunk_jarnak.mp3"
+      },
+      {
+        "title": "027 - A vágány mellett kérjük vigyázzanak!",
+        "episode": 28,
+        "date": "2014-08-14T20:26:04.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/027_a_vagany_mellett_kerjuk_vigyazzanak.mp3"
+      },
+      {
+        "title": "028 - Kifordított bombázósdzseki",
+        "episode": 29,
+        "date": "2014-08-21T19:58:14.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/028_kiforditott_bombazosdzseki.mp3"
+      },
+      {
+        "title": "029 - WHO the fuck is Alice",
+        "episode": 30,
+        "date": "2014-08-29T21:25:20.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/029_who_the_fuck_is_alice.mp3"
+      },
+      {
+        "title": "030 - Rágjuk a gittet",
+        "episode": 31,
+        "date": "2014-09-04T21:00:42.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/030_ragjuk_a_gittet.mp3"
+      },
+      {
+        "title": "031 - Igazolatlanul távol",
+        "episode": 32,
+        "date": "2014-09-17T20:26:38.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/031_igazolatlanul_tavol.mp3"
+      },
+      {
+        "title": "032 - Újra itt van a nagy csapat",
+        "episode": 33,
+        "date": "2014-09-25T14:16:10.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/032_ujra_itt_van_a_nagy_csapat.mp3"
+      },
+      {
+        "title": "033 - Krisztusi korba léptünk",
+        "episode": 34,
+        "date": "2014-10-02T20:45:24.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/033_krisztusi_korba_leptunk.mp3"
+      },
+      {
+        "title": "034 - Tanárnőnek tisztelettel jelentem",
+        "episode": 35,
+        "date": "2014-10-10T20:17:22.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/034_tanarnonek_tisztelettel_jelentem.mp3"
+      },
+      {
+        "title": "035 - Útelágazódás",
+        "episode": 36,
+        "date": "2014-10-17T20:05:55.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/035_utelagazodas.mp3"
+      },
+      {
+        "title": "036 - Londonban a macska, cincognak az egerek",
+        "episode": 37,
+        "date": "2014-10-24T21:02:54.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/036_londonban_a_macska_cincognak_az_egerek.mp3"
+      },
+      {
+        "title": "037 - A felhők nyomában",
+        "episode": 38,
+        "date": "2014-10-31T22:43:02.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/037_a_felhok_nyomaban.mp3"
+      },
+      {
+        "title": "038 - A birodalom visszavág",
+        "episode": 39,
+        "date": "2014-11-07T19:55:48.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/038_a_birodalom_visszavag.mp3"
+      },
+      {
+        "title": "039 - Elgurult a gyógyszer",
+        "episode": 40,
+        "date": "2014-11-14T22:12:33.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/039_elgurult_a_gyogyszer.mp3"
+      },
+      {
+        "title": "039/2 - Tilos rádió interjú Krisztiánnal",
+        "episode": 41,
+        "date": "2014-11-17T16:03:14.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/039_2_tilos_radio_interju_20141113.mp3"
+      },
+      {
+        "title": "040 - Indexelünk a leállósáv felé",
+        "episode": 42,
+        "date": "2014-11-21T20:30:15.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/040_indexelunk_a_leallosav_fele.mp3"
+      },
+      {
+        "title": "041 - Megcsúsztunk a jégen",
+        "episode": 43,
+        "date": "2014-11-29T15:54:03.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/041_megcsusztunk_a_jegen.mp3"
+      },
+      {
+        "title": "042 - A végső válasz erősebb, mint a Mikulás",
+        "episode": 44,
+        "date": "2014-12-06T19:31:45.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/042_a_vegso_valasz_erosebb_mint_a_mikulas.mp3"
+      },
+      {
+        "title": "043 - A szivárvány illata",
+        "episode": 45,
+        "date": "2014-12-12T21:12:54.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/043_a_szivarvany_illata.mp3"
+      },
+      {
+        "title": "044 - A 3 királyok és a váratlen vendég a felhőben",
+        "episode": 46,
+        "date": "2014-12-19T21:52:54.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/044_a_3_kiralyok_es_a_varatlan_vendeg_a_felhoben.mp3"
+      },
+      {
+        "title": "045 – Idáig már 45-ször volt igazunk",
+        "episode": 47,
+        "date": "2015-01-02T21:06:06.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/045_idaig_mar_45-szor_volt_igazunk.mp3"
+      },
+      {
+        "title": "046 - Je suis Charlie",
+        "episode": 48,
+        "date": "2015-01-09T21:14:47.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/046_je_suis_charlie.mp3"
+      },
+      {
+        "title": "047 - Elszálltunk, mint a svájci frank",
+        "episode": 49,
+        "date": "2015-01-15T20:54:00.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/047_elszalltunk_mint_a_svajci_frank.mp3"
+      },
+      {
+        "title": "Special edition 001 - Mohácsi Vépsz",
+        "episode": 50,
+        "date": "2015-01-19T18:08:38.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/mohacsi_vepsz_20150117.mp3"
+      },
+      {
+        "title": "048 - Miss Formalin",
+        "episode": 51,
+        "date": "2015-01-23T21:28:11.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/048_miss_formalin.mp3"
+      },
+      {
+        "title": "049 - Tortára várva",
+        "episode": 52,
+        "date": "2015-01-30T21:48:17.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/049_tortara_varva.mp3"
+      },
+      {
+        "title": "050 - Jubileumi adás",
+        "episode": 53,
+        "date": "2015-02-08T17:00:44.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/50_jubileumi_adas.mp3"
+      },
+      {
+        "title": "051 - Az 51-es körzet",
+        "episode": 54,
+        "date": "2015-02-12T21:41:47.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/051_az_51_es_korzet.mp3"
+      },
+      {
+        "title": "052 - Plusz a Joker",
+        "episode": 55,
+        "date": "2015-02-19T21:36:07.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/052_plusz_a_joker.mp3"
+      },
+      {
+        "title": "053 - RIP Titanic",
+        "episode": 56,
+        "date": "2015-02-26T18:33:02.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/053_rip_titanic.mp3"
+      },
+      {
+        "title": "054 - Live long and prosper",
+        "episode": 57,
+        "date": "2015-03-05T21:16:24.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/054_live_long_and_prosper.mp3"
+      },
+      {
+        "title": "055 - Let me Google that for you",
+        "episode": 58,
+        "date": "2015-03-12T20:55:27.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/055_let_me_google_that_for_you.mp3"
+      },
+      {
+        "title": "056 - A ragasztósfiú esete a kétdimenziós moddal",
+        "episode": 59,
+        "date": "2015-03-19T21:14:16.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/056_a_ragasztosfiu_esete_a_ketdimenzios_moddal.mp3"
+      },
+      {
+        "title": "057 - K-PAX - A belső bolygó",
+        "episode": 60,
+        "date": "2015-03-26T15:53:58.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/057_k-pax_a_belso_bolygo.mp3"
+      },
+      {
+        "title": "058 - Nikotinfürdő",
+        "episode": 61,
+        "date": "2015-04-02T21:13:06.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/058_nikotinfurdo.mp3"
+      },
+      {
+        "title": "059 - Ember embernek farkasa",
+        "episode": 62,
+        "date": "2015-04-09T21:10:14.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/059_ember_embernek_farkasa.mp3"
+      },
+      {
+        "title": "060 - Buktával dicsérd a napot",
+        "episode": 63,
+        "date": "2015-04-17T10:50:50.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/060_buktaval_dicserd_a_napot.mp3"
+      },
+      {
+        "title": "061 - Ömlik a szar a nyakunkba",
+        "episode": 64,
+        "date": "2015-04-23T20:22:56.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/061_omlik_a_szar_a_nyakunkba.mp3"
+      },
+      {
+        "title": "062 - Tolatunk az Autobahnon",
+        "episode": 65,
+        "date": "2015-04-30T20:45:25.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/062_tolatunk_az_autobahnon.mp3"
+      },
+      {
+        "title": "063 - TPD - Totális Páraellenes Disznóság",
+        "episode": 66,
+        "date": "2015-05-08T11:31:55.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/063_tpd_totalis_paraellenes_disznosag.mp3"
+      },
+      {
+        "title": "064 - Kabbe gyíkok, én leléptem!",
+        "episode": 67,
+        "date": "2015-05-14T20:51:09.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/064_kabbe_gyikok_en_leleptem.mp3"
+      },
+      {
+        "title": "065 - Heti heroin",
+        "episode": 68,
+        "date": "2015-07-02T21:37:35.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/065_heti_heroin.mp3"
+      },
+      {
+        "title": "066 - Rövidre vágva",
+        "episode": 69,
+        "date": "2015-07-10T20:04:46.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/066_rovidre_vagva.mp3"
+      },
+      {
+        "title": "067 - Macskajaj",
+        "episode": 70,
+        "date": "2015-07-16T10:20:15.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/067_macskajaj.mp3"
+      },
+      {
+        "title": "068 - Say my name",
+        "episode": 71,
+        "date": "2015-07-23T20:37:25.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/068_say_my_name.mp3"
+      },
+      {
+        "title": "069 - Rossz az aki rosszra gondol",
+        "episode": 72,
+        "date": "2015-07-31T12:26:03.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/069_rossz_az_aki_rosszra_gondol.mp3"
+      },
+      {
+        "title": "070 - Plakátra agyar!",
+        "episode": 73,
+        "date": "2015-08-06T21:11:43.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/070_plakatra_magyar.mp3"
+      },
+      {
+        "title": "071 - DiCaprio nem ér rá",
+        "episode": 74,
+        "date": "2015-08-13T20:41:08.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/071_dicaprio_nem_er_ra.mp3"
+      },
+      {
+        "title": "072 - Egy fecske csináljon nyarat!",
+        "episode": 75,
+        "date": "2015-08-21T20:25:29.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/072_egy_fecske_csinaljon_nyarat.mp3"
+      },
+      {
+        "title": "073 - Foghíjasan",
+        "episode": 76,
+        "date": "2015-08-27T21:07:46.000Z",
+        "downloaded": false,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/073_foghijasan.mp3"
+      },
+      {
+        "title": "074 - Prométeusz bekaphatja",
+        "episode": 77,
+        "date": "2015-09-03T20:26:29.000Z",
+        "downloaded": true,
+        "url": "http://www.podtrac.com/pts/redirect.mp3/ecigitesztek.hu/podcast/074_prometeusz_bekaphatja.mp3"
+      }
+    ]
+  },
+  "http://feeds.soundcloud.com/users/soundcloud:users:142875055/sounds.rss": {
+    "title": "Checkpoint",
+    "episodes": [
+      {
+        "title": "Checkpoint 1x01 - pilot",
+        "episode": 1,
+        "date": "2015-03-18T09:42:52.000Z",
+        "downloaded": true,
+        "url": "http://feeds.soundcloud.com/stream/196452694-st-ki-checkpoint-1x00.mp3"
+      },
+      {
+        "title": "Checkpoint 1x03",
+        "episode": 3,
+        "date": "2015-04-17T09:31:58.000Z",
+        "downloaded": false,
+        "url": "http://feeds.soundcloud.com/stream/201220596-st-ki-checkpoint-1x03.mp3"
+      },
+      {
+        "title": "Checkpoint 1x04",
+        "episode": 4,
+        "date": "2015-04-29T09:12:32.000Z",
+        "downloaded": false,
+        "url": "http://feeds.soundcloud.com/stream/203085105-st-ki-checkpoint-1x04.mp3"
+      },
+      {
+        "title": "Checkpoint 1x05",
+        "episode": 5,
+        "date": "2015-05-13T12:02:15.000Z",
+        "downloaded": false,
+        "url": "http://feeds.soundcloud.com/stream/205270155-st-ki-checkpoint-1x05.mp3"
+      },
+      {
+        "title": "Checkpoint 1x06",
+        "episode": 6,
+        "date": "2015-05-28T13:20:21.000Z",
+        "downloaded": false,
+        "url": "http://feeds.soundcloud.com/stream/207637651-st-ki-checkpoint-1x06.mp3"
+      },
+      {
+        "title": "Checkpoint 1x07",
+        "episode": 7,
+        "date": "2015-06-10T12:45:38.000Z",
+        "downloaded": false,
+        "url": "http://feeds.soundcloud.com/stream/209682715-st-ki-checkpoint-1x07.mp3"
+      },
+      {
+        "title": "Checkpoint Mini #01 (pilot)",
+        "episode": 8,
+        "date": "2015-06-18T08:59:49.000Z",
+        "downloaded": false,
+        "url": "http://feeds.soundcloud.com/stream/210870920-st-ki-checkpoint-mini-01-pilot.mp3"
+      },
+      {
+        "title": "Checkpoint 1x08",
+        "episode": 9,
+        "date": "2015-06-25T09:33:10.000Z",
+        "downloaded": false,
+        "url": "http://feeds.soundcloud.com/stream/211905452-st-ki-checkpoint-1x08.mp3"
+      },
+      {
+        "title": "Checkpoint Mini #02",
+        "episode": 10,
+        "date": "2015-07-05T13:42:15.000Z",
+        "downloaded": false,
+        "url": "http://feeds.soundcloud.com/stream/213346780-st-ki-checkpoint-mini-02.mp3"
+      },
+      {
+        "title": "Checkpoint 1x09",
+        "episode": 11,
+        "date": "2015-07-10T20:31:27.000Z",
+        "downloaded": false,
+        "url": "http://feeds.soundcloud.com/stream/214167771-st-ki-checkpoint-1x09.mp3"
+      },
+      {
+        "title": "Checkpoint Mini #03",
+        "episode": 12,
+        "date": "2015-07-16T14:35:20.000Z",
+        "downloaded": false,
+        "url": "http://feeds.soundcloud.com/stream/214988822-st-ki-checkpoint-mini-03.mp3"
+      },
+      {
+        "title": "Checkpoint 1x10",
+        "episode": 13,
+        "date": "2015-07-24T06:38:13.000Z",
+        "downloaded": false,
+        "url": "http://feeds.soundcloud.com/stream/216113981-st-ki-checkpoint-1x10.mp3"
+      },
+      {
+        "title": "Checkpoint 1x11",
+        "episode": 14,
+        "date": "2015-08-06T05:27:29.000Z",
+        "downloaded": false,
+        "url": "http://feeds.soundcloud.com/stream/218010292-st-ki-checkpoint-1x11.mp3"
+      }
+    ]
+  }
+}

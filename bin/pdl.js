@@ -7,7 +7,13 @@ var fs = require('fs');
 var PodcastDownloader = function () {
     var podcast_url = process.argv[3];
     var feedFile = path.join(__dirname, 'feeds.json');
-    var feeds = require(feedFile);
+    var feeds;
+
+    try {
+        feeds = require(feedFile);
+    } catch (e) {
+        feeds = {};
+    }
     
     var saveSubscription = function(parsed_feed) {
         var feed = feeds[podcast_url] || {};

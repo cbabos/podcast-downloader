@@ -4,7 +4,7 @@
   "description": "Console-mode podcast downloader. ",
   "preferGlobal": true,
   "bin": {
-    "pdl": "bin/pdl.js"
+    "pdl": "index.js"
   },
   "scripts": {
     "test": "mocha"
